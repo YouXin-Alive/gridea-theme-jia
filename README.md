@@ -1,4 +1,4 @@
-# gridea-theme-jia
+# Geidea主题 [佳]
 ***
 ### 首页：
 ![mbd_1569514095664008804.jpg](https://i.loli.net/2019/10/29/fPbaYk8ZKij3QlV.jpg)
